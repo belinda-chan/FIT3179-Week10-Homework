@@ -6,7 +6,7 @@
     "height": 400,
     "title": "Life Expectancy and Happiness Scores 2020",
     "data": {
-    "url": "https://raw.githubusercontent.com/belinda-chan/W10-Homework/main/Happiness%20Life%20Span.csv"
+    "url": "https://raw.githubusercontent.com/belinda-chan/FIT3179-Week10-Homework/main/Happiness%20Life%20Span.csv"
     },
     "encoding":{
       "x": {
